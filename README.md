@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush1665&label=Profile%20views&color=0e75b6&style=flat" alt="ayush1665" /> </p>
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **MERN stack,Java**
 
 - 📫 How to reach me **ayush1665.be21@chitkara.edu.in**
 
