@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **MERN stack,Java**
 
-- 📫 How to reach me **ayush1665.be21@chitkara.edu.in**
+- 📫 How to reach me **ayushsingla1378@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
