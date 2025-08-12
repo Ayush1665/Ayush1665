@@ -30,9 +30,6 @@
   <a href="https://www.leetcode.com/ayush1665" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/ayush1665be21" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
 </p>
 
 
