@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush1665&label=Profile%20views&color=0e75b6&style=flat" alt="ayush1665" /> </p>
 
-- 🚀 Building scalable, high-performance mobile and web applications.
+- 🚀 Passionate about **building scalable, high-performance applications**
   
-- 🎓   Software Engineer with expertise in React Native & Full-Stack Development.
+- 🎓 Software Engineer with expertise in React Native & Full-Stack Development.
 
-- 🌱 Currently exploring AI integrations, mobile tracking, and fintech solutions.
+- 🌱 Currently exploring **AI integrations, mobile tracking, and fintech solutions**.
   
-- 💡 Passionate about innovation, problem-solving, and creating impactful tech solutions.
+- 🎯 Focused on **innovation, problem-solving, and impactful tech solutions**
+
+- 📚 Constantly learning and expanding my tech stack
 
 ---
 <h3 align="left">Connect with me</h3>
