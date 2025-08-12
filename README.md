@@ -58,16 +58,6 @@
 
 ## 📊 GitHub Stats  
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush1665&show_icons=true&theme=radical&count_private=true" width="48%"/>
-  
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=ayush1665&theme=radical&hide_border=false" width="55%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush1665&layout=compact&theme=radical&langs_count=20" width="30%"/>
-</p>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayush1665&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=ayush1665&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ayush1665&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush1665&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
