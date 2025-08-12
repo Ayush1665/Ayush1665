@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Ayush Singla</h1>
+<h1 align="center">Hey there 👋, I'm Ayush Singla</h1>
 <h3 align="center">A passionate MERN Stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush1665&label=Profile%20views&color=0e75b6&style=flat" alt="ayush1665" /> </p>
 
-- 💬 Ask me about **MERN stack,Java**
+- 🚀 Building scalable, high-performance mobile and web applications. 
 
-- 📫 How to reach me **ayushsingla1378@gmail.com**
+- 🌱 Currently exploring AI integrations, mobile tracking, and fintech solutions.
+  
+- 💡 Passionate about innovation, problem-solving, and creating impactful tech solutions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
