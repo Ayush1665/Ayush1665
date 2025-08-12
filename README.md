@@ -11,8 +11,6 @@
   
 - 🎯 Focused on **innovation, problem-solving, and impactful tech solutions**
 
-- 📚 Constantly learning and expanding my tech stack
-
 ---
 <h3 align="left">Connect with me</h3>
 
