@@ -37,73 +37,25 @@
 ---
 <h3 align="left">🛠 Tech Stack</h3>
 
-<!-- Languages -->
-<strong>Languages:</strong>
 <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" title="TypeScript" />
-  </a>
+  <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" title="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" /></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" /></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" /></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" /></a>
+  <a href="https://www.github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="Github" title="Github" /></a>
 </p>
 
-<!-- Frontend -->
-<strong>Frontend:</strong>
-<p align="left">
-   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" />
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />
-  </a>
-</p>
-
-<!-- Backend & Database -->
-<strong>Backend & Database:</strong>
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" />
-  </a>
-</p>
-
-<!-- DevOps & Tools -->
-<strong>Others:</strong>
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
-  </a>
-  <a href="https://www.github.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" alt="Github" title="Github" />
-  </a>
-</p>
 
 ---
 
