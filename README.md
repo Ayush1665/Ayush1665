@@ -55,6 +55,8 @@
   <a href="https://www.github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="Github" title="Github" /></a>
   <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" /></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" title="TailwindCSS" /></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis" /></a>
 </p>
 
 
