@@ -53,6 +53,8 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" /></a>
   <a href="https://www.github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="Github" title="Github" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" /></a>
 </p>
 
 
