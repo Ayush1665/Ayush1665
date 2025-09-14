@@ -29,7 +29,7 @@
 </p>
 
 ### 📫 Reach me at  
-**[ayushsingla1378@gmail.com](mailto:ayushsingla1378@gmail.com)**
+**[ayush.work65@gmail.com](mailto:ayush.work65@gmail.com)**
 
 
 
