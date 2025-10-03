@@ -42,6 +42,7 @@ About = [
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" /></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" /></a>
   <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React" /></a>
+  <a href="https://vite.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" /></a>
   <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" /></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" /></a>
@@ -54,6 +55,12 @@ About = [
   <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" /></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" title="TailwindCSS" /></a>
   <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis" /></a>
+  <a href="https://notion.com/" target="_blank"><img src="https://skillicons.dev/icons?i=notion" alt="Notion" title="Notion" /></a>
+  <a href="https://npmjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=npm" alt="NPM" title="NPM" /></a>
+  <a href="http://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" /></a>
+  <a href="https://jenkins.io/" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" title="Jenkins" /></a>
+  <a href="https://gradle.org/" target="_blank"><img src="https://skillicons.dev/icons?i=maven" alt="Maven" title="Maven" /></a>
+  <a href="https://maven.apache.org/" target="_blank"><img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" title="Gradle" /></a>
 </p>
 
 
