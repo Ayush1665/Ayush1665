@@ -59,8 +59,8 @@ About = [
   <a href="https://npmjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=npm" alt="NPM" title="NPM" /></a>
   <a href="http://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" /></a>
   <a href="https://jenkins.io/" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" title="Jenkins" /></a>
-  <a href="https://gradle.org/" target="_blank"><img src="https://skillicons.dev/icons?i=maven" alt="Maven" title="Maven" /></a>
-  <a href="https://maven.apache.org/" target="_blank"><img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" title="Gradle" /></a>
+  <a href="https://maven.apache.org/" target="_blank"><img src="https://skillicons.dev/icons?i=maven" alt="Maven" title="Maven" /></a>
+  <a href="https://gradle.org/" target="_blank"><img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" title="Gradle" /></a>
 </p>
 
 
