@@ -67,10 +67,11 @@ About = [
 ## 🔗 Connect with me
 <p align="left">
   <a href="https://app.daily.dev/ayush1665"><img src="https://api.daily.dev/devcards/v2/QfvmaiCRpQ7ZuTQDQXQgY.png?type=default&r=p37" width="356" alt="Ayush Singla's Dev Card"/></a>
-  <br><br><a href="mailto:ayush.work65@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-ayush.work65-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <br>
-<a href="https://www.linkedin.com/in/ayush1665" target="_blank">
+  <br><br><a href="https://www.linkedin.com/in/ayush1665" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Ayush-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+  <br>
+  <a href="mailto:ayush.work65@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-ayush.work65-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  
 </p>
