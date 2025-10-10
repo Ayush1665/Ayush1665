@@ -21,7 +21,7 @@ About = [
   "⚡ Motto: Code👨‍💻, Debug🐞, Deploy🚀, Repeat🔁."
 ]
 ```
----
+
 ## 🛠 Languages and Tools
 
 <p align="left">
@@ -54,16 +54,12 @@ About = [
   <a href="https://gradle.org/" target="_blank"><img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" title="Gradle" /></a>
 </p>
 
-
----
-
 ## 📊 GitHub Stats  
 
 ![](https://github-readme-stats.vercel.app/api?username=ayush1665&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ayush1665&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush1665&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 ## 🔗 Connect with me
 <p align="left">
   <a href="https://app.daily.dev/ayush1665"><img src="https://api.daily.dev/devcards/v2/QfvmaiCRpQ7ZuTQDQXQgY.png?type=default&r=p37" width="356" alt="Ayush Singla's Dev Card"/></a>
