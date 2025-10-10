@@ -22,7 +22,7 @@ About = [
 ]
 ```
 ---
-## 🛠 Tech Stack
+## 🛠 Languages and Tools
 
 <p align="left">
   <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" /></a>
