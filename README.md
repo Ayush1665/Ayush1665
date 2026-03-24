@@ -58,6 +58,13 @@ About = [
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263.svg?style=for-the-badge&logo=eslint&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Build](https://img.shields.io/badge/Build-%23007ACC.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%23Clojure.svg?style=for-the-badge&logo=swagger&logoColor=white)
 
 
 
