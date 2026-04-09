@@ -70,10 +70,25 @@ About = [
 
 
 ## 📊 GitHub Stats  
+<img 
+       src="https://github-readme-stats-nine-henna-42.vercel.app/api/top-langs/?username=ayush1665&theme=dark&hide_border=false&layout=compact" 
+       height="180" 
+       alt="Top Languages" 
+       style="margin: 10px;" />
 
-![](https://github-readme-stats.vercel.app/api?username=ayush1665&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ayush1665&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush1665&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <!-- GitHub Stats -->
+  <img 
+       src="https://github-readme-stats-nine-henna-42.vercel.app/api?username=ayush1665&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false" 
+       height="180" 
+       alt="GitHub Stats" 
+       style="margin: 10px;" />
+
+  <!-- GitHub Streak -->
+  <img 
+       src="https://streak-stats.demolab.com/?user=ayush1665&theme=dark&hide_border=false" 
+       height="180" 
+       alt="GitHub Streak" 
+       style="margin: 10px;" />
 
 ## 🔗 Connect with me
 <p align="left">
