@@ -4,12 +4,12 @@
 Name = "AYUSH SINGLA"
 
 Profession = {
+  "Backend Dev" : '📱',
   "Full-Stack Dev" : '💻',
-  "Android Dev" : '📱',
   "Software Testing" : '🛠️',
 }
 
-Age = 22
+Age = 23
 Country = "India ♥"
 College = "Chitkara University 🎓"
 
